@@ -1,0 +1,25 @@
+{
+  "name": "system-configs",
+  "version": "0.0.1",
+  "description": "System Config Collector ",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "github": "^9.2.0",
+    "readline-sync": "^1.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-bryant/system-configs.git"
+  },
+  "author": "Dan Bryant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan-bryant/system-configs/issues"
+  },
+  "homepage": "https://github.com/dan-bryant/system-configs#readme"
+}
